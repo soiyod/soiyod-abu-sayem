@@ -1,0 +1,40 @@
+#search form {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/search-bg.png', sizingMethod='image');
+}
+#search .search-button {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/search-button.png', sizingMethod='image');
+}
+#intro {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/main-bg.png', sizingMethod='image');
+}
+#sidebar {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/sidebar-bg.png', sizingMethod='image');
+}
+#sidebar a.button {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/button-big.png', sizingMethod='images');
+}
+.main-boxes h3.orange {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/orange.png', sizingMethod='image');
+}
+.main-boxes h3.blue {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/blue.png', sizingMethod='image');
+}
+.main-boxes h3.red {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/red.png', sizingMethod='image');
+}
+#navigation ul li a.active, #navigation ul li a:hover {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/hover-left.png', sizingMethod='scale');
+}
+#navigation ul li a.active span, #navigation ul li a:hover span {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/hover-right.png', sizingMethod='scale');
+}
